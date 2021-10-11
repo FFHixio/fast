@@ -60,7 +60,7 @@
     "test": "yarn test-chrome:verbose && yarn validate-component-definitions && yarn doc:ci"
   },
   "devDependencies": {
-    "@microsoft/api-extractor": "7.8.1",
+    "@microsoft/api-extractor": "7.18.9",
     "@storybook/addons": "^6.1.17",
     "@storybook/html": "^6.1.17",
     "@storybook/theming": "^6.1.17",
